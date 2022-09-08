@@ -19,4 +19,3 @@ Here are some ideas to get you started:
 <br />
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=redchicken75&theme=radical)](https://git.io/streak-stats)\
 
-<span style="color:blue">some *blue* text</span>
